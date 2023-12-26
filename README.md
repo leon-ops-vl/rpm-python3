@@ -23,4 +23,9 @@ yum install <rpm package file>
 # Example
 yum install ./Python-3.9.18-1.el9.x86_64.rpm
 
+# 升级安装
+rpm -Uvh --replacefiles --replacepkgs ./Python-3.9.18-1.el9.x86_64.rpm
+# 降级安装
+rpm -Uvh --replacefiles --replacepkgs --oldpackage ./Python-3.9.18-1.el9.x86_64.rpm
+
 ```
