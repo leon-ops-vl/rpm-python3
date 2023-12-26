@@ -1,9 +1,14 @@
-# rpm-python3
+## rpm-python3
 https://www.python.org/downloads/
 
 Generate RPM packages based on the official version
 
 
+## python version introduction
+```
+Python 3.6 ~ 3.9 版本: 与 OpenSSL 1.0.2、1.1.0 和 1.1.1 兼容;
+Python 3.10 版本: 仅支持 OpenSSL 1.1.1 LTS 或更高版本
+```
 
 ## System support list:
 ------------------------------
