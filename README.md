@@ -14,7 +14,7 @@ Python 3.10 版本: 仅支持 OpenSSL 1.1.1 LTS 或更高版本
 ------------------------------
 centos 7.9  
 
-rocky  9.2
+rocky  9.x
 
 
 ## install:
